@@ -5,7 +5,7 @@ metadata:
   name: nginx
 spec:
   rules:
-    - host: https://nginx-dod-amsterdam-w01-s024.playground.nws.netways.de
+    - host: argocd-dod-amsterdam-w01-s024.playground.nws.netways.de
       http:
         paths:
           - path: /
